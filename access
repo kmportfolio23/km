@@ -1,0 +1,77 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Access</title>
+<link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
+<link href="thefarm.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+	<div class="wrap">
+		<!--ヘッダー-->
+	<header>
+		<nav>
+			<div class="header-logo">
+			<img src="logo.png">
+			</div>
+			<div class="header-list">
+			<ul>
+			<li><a href="thefarm3.html">Home</a></li>
+			<li><a href="Concept.html">Concept</a></li>
+			<li><a href="Menu.html">Menu</a></li>
+			<li><a href="page/tenpoannai.html">Access</a></li>
+			<li><a href=""><i class="fab fa-instagram"></i></a></li>
+			</ul>
+			</div>
+		</nav>
+	</header>
+		
+		<div id="contents">
+		　　　　　<h3 class="midashi">Access</h3>
+			
+			<div class="map">
+			<div class="mapimg">
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.8280303808788!2d139.7649361151714!3d35.68123618019432!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bfbd89f700b%3A0x277c49ba34ed38!2z5p2x5Lqs6aeF!5e0!3m2!1sja!2sjp!4v1573474552530!5m2!1sja!2sjp" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+				<p>東京駅東口　徒歩3分</p>
+				</div>
+			<div class="maptext">
+			<ol>
+				<li>駅東口を出ます。</li>
+				<li>駅前商店街を国道111号線方面へ向かいます。</li>
+				<li>銀行ATMの角を左に曲がり2軒の1階です。</li>
+			</ol>
+			</div>
+	
+			
+	<div class="accessbox">
+		<table>
+		<tr>
+			<th>住所</th>
+			<td>〒123-4567 東京都新宿区西新宿1-2-3</td>
+		</tr>
+		<tr>
+			<th>電話番号</th>
+			<td>01-2345-6789</td>
+		</tr>
+		<tr>
+			<th>営業時間</th>
+			<td>10:00〜19:00</td>
+		</tr>	
+		<tr>
+			<th>定休日</th>
+			<td>水曜日・日曜日</td>
+		</tr>	
+		</table>
+		
+		</div>
+
+					<!--フッター-->
+		<footer>
+		<p>COPYRIGHT &#169; THE FARM ALL RIGHTS RESERVED.	</p>
+		</footer>
+        
+		
+	</div>
+</body>
+</html>
