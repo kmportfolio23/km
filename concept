@@ -1,0 +1,59 @@
+<!doctype html>
+  <html>
+  <head>
+  <meta charset="UTF-8">
+  <title>Concept</title>
+  <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
+  <link href="thefarm.css" rel="stylesheet" type="text/css">
+  </head>
+
+  <body>
+      <div class="wrap">
+          <!--ヘッダー-->
+      <header>
+          <nav>
+              <div class="header-logo">
+              <img src="logo.png">
+              </div>
+              <div class="header-list">
+              <ul>
+              <li><a href="thefarm3.html">Home</a></li>
+              <li><a href="Concept.html">Concept</a></li>
+              <li><a href="Menu.html">Menu</a></li>
+              <li><a href="Access.html">Access</a></li>
+              <li><a href=""><i class="fab fa-instagram"></i></a></li>
+              </ul>
+              </div>
+          </nav>
+      </header>
+
+              <div id="contents">
+
+                  <section>
+                      <h3 class="midashi">Concept</h3>
+                      <div class="contentsbox">
+                        <div class="mainpic">
+                    <img src="food2.jpg" alt="メイン画像"></div>
+                      <p>THE FARM は有機野菜だけを使用しています。</p>
+                       <p>産地にもこだわり、常に一番美味しい状態で提供できるよう心がけています。</p>
+                      </div>
+                  </section>
+
+                  <section>
+                      <div class="contentsbox">
+                        <div class="mainpic"><img src="eco2.jpg"></div>
+                          <p>THE FARMは、環境問題にも積極的に取り組んでいます。</p>
+                          <p>美味しい野菜は豊かな自然あってのもの。</p>
+                          <p>ドリンクお持ち帰り用のプラスチックは、トウモロコシを原料とした100％生分解性容器を使用しています。</p>
+
+                    </div>
+                  </section>
+          </div>				
+                  <!--フッター-->
+          <footer>
+          <p>COPYRIGHT &#169; THE FARM ALL RIGHTS RESERVED.	</p>
+          </footer>	
+
+  </div>
+  </body>
+  </html>
