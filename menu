@@ -1,0 +1,78 @@
+  <!doctype html>
+  <html>
+  <head>
+  <meta charset="UTF-8">
+  <title>Menu</title>
+  <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
+  <link href="thefarm.css" rel="stylesheet" type="text/css">
+  </head>
+
+
+
+  <body>
+      <div class="wrap">
+          <!--ヘッダー-->
+		        <header>
+          <nav>
+              <div class="header-logo">
+              <img src="logo.png">
+              </div>
+              <div class="header-list">
+              <ul>
+              <li><a href="thefarm3.html">Home</a></li>
+              <li><a href="Concept.html">Concept</a></li>
+              <li><a href="Menu.html">Menu</a></li>
+              <li><a href="Access.html">Access</a></li>
+              <li><a href=""><i class="fab fa-instagram"></i></a></li>
+              </ul>
+              </div>
+          </nav>
+      </header>
+
+          <!--メニューー-->
+       <h3 class="midashi">Menu</h3>
+          <div class="menu-block">
+
+            <div class="menu-item">
+               <div class="menuphoto">
+                  <img src="sandwich.jpg">
+                  </div>
+              <div class="menu-text">
+                <h2>野菜たっぷりサンド</h2>
+                <p>グルテンフリーのパンに新鮮な野菜を<br>たっぷり挟みました。</p>
+                <p>&yen;630-</p>
+                  </div>
+              </div>
+
+            <div class="menu-item">
+               <div class="menu-photo">
+                  <img src="bowl.jpg">
+                  </div>
+              <div class="menu-text">
+                <h2>アサイーボウル</h2>
+                <p>フルーツたっぷりのアサイーボウル。<br>小腹が空いた時のおやつにもおすすめです。</p>
+                  <p>&yen;580-</p>
+                  </div>
+              </div>
+
+                          <div class="menu-item">
+               <div class="menu-photo">
+                  <img src="smoothies.jpg">
+                  </div>
+              <div class="menu-text">
+                  <h2>スムージー</h2>
+                  <p>原料100％のスムージー。<br>フルーツや野菜のみの甘さがやみつきになります。</p>
+                  <p>&yen;480-</p>
+                  </div>
+              </div>
+
+          </div>
+
+                  <!--フッター-->
+          <footer>
+          <p>COPYRIGHT &#169; THE FARM ALL RIGHTS RESERVED.	</p>
+          </footer>
+
+      </div>
+  </body>
+  </html>
